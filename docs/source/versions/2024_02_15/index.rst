@@ -4,10 +4,10 @@
    contain the root `toctree` directive.
 
 
-Welcome to the [Workshop Title]!
-===================================
+Welcome to Introduction to Macro writing in ImageJ/Fiji!
+=========================================================
 
-This set of slides introduces participants to key concepts in [Workshop Subject]. It is designed to provide practical insights for [Target Audience] who are interested in [Objective of Workshop].
+This set of slides introduces participants to key concepts in the writing of macros in ImageJ/Fiji. It is designed to provide practical insights for biologists who are interested in automating image analysis workflows.
 
 The following materials were developed for a workshop taught in-person at Harvard Medical School.
 

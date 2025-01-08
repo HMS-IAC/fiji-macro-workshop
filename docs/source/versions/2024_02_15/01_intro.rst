@@ -1,5 +1,5 @@
-Introduction to image analysis
-======================================
+Introduction to Macro writing in ImageJ/Fiji
+=============================================
 
 This is an example of how to embed a PDF file in a page. The PDF file is located in the `_static` folder and is displayed using an `iframe` tag.
 They can also be downloaded by clicking on the link below.
