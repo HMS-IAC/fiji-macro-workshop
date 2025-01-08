@@ -5,9 +5,9 @@ import os
 # =============================================================================
 
 # -- Project Information -----------------------------------------------------
-project = 'workshop-template'  # Change this to the name of your project
-author = 'Antoine A. Ruzette, ... '  # Set the author's name
-html_title = 'Workshop Template'  # The title of the website
+project = 'Fiji/Macro workshop'  # Change this to the name of your project
+author = 'Federico Gasparoli, Simon F. Nørrelykke'  # Set the author's name
+html_title = 'Fiji/Macro workshop'  # The title of the website
 
 # =============================================================================
 #                    Configuration Settings - Do Not Change
@@ -19,7 +19,7 @@ iac_url = "https://iac.hms.harvard.edu/"  # Institution website URL
 github_url = "https://github.com/HMS-IAC"  # GitHub organization URL
 
 # Copyright information
-copyright = '2024, Antoine A. Ruzette'  # Update copyright information
+copyright = '2024, Image Analysis Collaboratory, Harvard Medical School'
 
 # -- General Sphinx Configuration --------------------------------------------
 extensions = [
