@@ -1,0 +1,7 @@
+02 - Introduction to Variables (numbers, strings, arrays)
+===================================================
+
+.. raw:: html
+
+   <iframe src="_static/fiji_macro_slides.pdf" width="100%" height="600px"></iframe>
+
