@@ -61,7 +61,7 @@ Finally, we will record and build a `step-by-step macro to segment nuclei <_stat
 Here are some helpful resources to complement the workshop materials:
 
 - `Macro Cheatsheet <_static/fiji_macro_cheatsheet.pdf>`_
-- `Introduction into Macro Programming <https://imagej.net/scripting/macro>`_
+- `Introduction to Macro Programming <https://imagej.net/scripting/macro>`_
 - `Built-in Macro Functions <https://imagej.net/ij/developer/macro/functions.html>`_
 - `Macro Script Parameters <https://imagej.net/scripting/parameters>`_
 - `Macro Videos (By Robert Haase) <https://youtu.be/q4ISEWq6q4E?si=IlcOoaA4uvI8bXO3>`_
