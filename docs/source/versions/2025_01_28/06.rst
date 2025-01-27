@@ -1,4 +1,4 @@
-06 - Graphical User Interface (GUI) in Fiji Macro
+06 - Graphical User Interface (GUI)
 ===================================================
 
 .. raw:: html
