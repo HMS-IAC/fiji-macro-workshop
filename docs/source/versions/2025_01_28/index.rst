@@ -14,7 +14,7 @@ The slides introduce participants to key concepts in writing macros in ImageJ/Fi
 The workshop is **tailored for beginners** with no prior programming experience. It combines tutorials and hands-on exercises to ensure an engaging and accessible learning experience.
 
 The session begins with a general introduction to programming concepts (e.g., variables, arrays, for loops, if/else statements) and gradually builds toward creating a complete Fiji macro through a step-by-step process.
-a
+
 If you are a `Fiji/ImageJ <https://fiji.sc>`_ beginner and are intersted to learn more, you can follow this `Introduction to Bioimage Analysis using ImageJ/Fiji workshop <https://hms-iac.github.io/fiji-workshop/versions/2025_01_22/index.html>`_.
 
 **Downloadable Resources**
