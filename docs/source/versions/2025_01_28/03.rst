@@ -1,4 +1,4 @@
-Introduction to Control Structures (if/else and for loops)
+03 - Introduction to Control Structures (if/else and for loops)
 ===================================================
 
 .. raw:: html

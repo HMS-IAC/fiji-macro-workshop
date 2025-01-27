@@ -1,4 +1,4 @@
-The Fiji Macro Recorder
+05 - The Fiji Macro Recorder
 ===================================================
 
 .. raw:: html

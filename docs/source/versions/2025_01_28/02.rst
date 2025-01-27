@@ -1,4 +1,4 @@
-Introduction to Variables (numbers, strings, arrays)
+02 - Introduction to Variables (numbers, strings, arrays)
 ===================================================
 
 .. raw:: html
