@@ -53,7 +53,7 @@ Below are the core sections of this workshop.
    05.rst
    06.rst
 
-Finally, we will record and build a `step-by-step macro to segment nuclei <_static/fiji_macros.zip>`_ following a classical image processing workflow. This macro will automate the pipeline, enabling it to process all the images in a specified folder.
+Finally, we will record and build a `step-by-step macro to segment nuclei <_static/fiji_macros.zip>`_ following a classical image processing workflow. This macro will **automate the pipeline**, enabling it to **process all the images in a specified folder**.
 
 **Useful Links**
 ----------------
