@@ -46,12 +46,12 @@ Below are the core sections of this workshop.
 .. toctree::
    :maxdepth: 1
 
-   - 01.rst
-   - 02.rst
-   - 03.rst
-   - 04.rst
-   - 05.rst
-   - 06.rst
+   01.rst
+   02.rst
+   03.rst
+   04.rst
+   05.rst
+   06.rst
 
 Finally, we will record and build a `step-by-step macro to segment nuclei <_static/fiji_macros.zip>`_ following a classical image processing workflow. This macro will automate the pipeline, enabling it to process all the images in a specified folder.
 
