@@ -1,4 +1,4 @@
-Introduction to image analysis with ImageJ/Fiji
+Graphical User Interface (GUI) in Fiji Macro
 ===================================================
 
 .. raw:: html

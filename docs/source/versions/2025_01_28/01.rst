@@ -1,4 +1,4 @@
-Graphical User Interface (GUI) in Fiji Macro
+Introduction to Fiji Macro
 ===================================================
 
 .. raw:: html
