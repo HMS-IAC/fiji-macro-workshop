@@ -5,9 +5,9 @@ import os
 # =============================================================================
 
 # -- Project Information -----------------------------------------------------
-project = 'Fiji/Macro workshop'  # Change this to the name of your project
+project = 'fiji-macro-workshop'  # Change this to the name of your project
 author = 'Federico Gasparoli, Simon F. Nørrelykke'  # Set the author's name
-html_title = 'fiji-macro-workshop'  # The title of the website
+html_title = 'Fiji Macro Workshop'  # The title of the website
 
 # =============================================================================
 #                    Configuration Settings - Do Not Change
